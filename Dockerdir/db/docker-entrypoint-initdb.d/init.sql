@@ -1,0 +1,17 @@
+CREATE TABLE user (
+    id INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+    name VARCHAR(50) NULL DEFAULT NULL,
+    PRIMARY KEY (id)
+);
+
+CREATE TABLE mood (
+    id INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+    score TINYINT NULL DEFAULT NULL,
+    timestamp DATE NULL,
+    PRIMARY KEY (id)
+);
+
+INSERT INTO user (name) VALUES ('John');
+
+
+INSERT INTO mood (score, timestamp) VALUES (9, CURRENT_TIMESTAMP);
