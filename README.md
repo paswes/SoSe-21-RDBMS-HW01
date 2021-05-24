@@ -8,9 +8,9 @@ To run the database navigate to the project directory and run:
 
 # Database connection
 
-**Host:** 127.0.0.1
-**Username:** root
-**Password:** root
+**Host:** 127.0.0.1\
+**Username:** root\
+**Password:** root\
 **Password:** test
 
 
