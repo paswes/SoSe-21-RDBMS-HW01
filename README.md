@@ -4,7 +4,7 @@
 
 To run the database navigate to the project directory and run:
 
-#### `docker-compose up db` 
+#### `$ docker-compose up db` 
 
 
 
