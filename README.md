@@ -8,10 +8,10 @@ To run the database navigate to the project directory and run:
 
 # Database connection
 
-**Host:** 127.0.0.1\
+**Host:** 127.0.0.1:3306\
 **Username:** root\
 **Password:** root\
-**Password:** test
+**Database:** moodtracker
 
 
 
